@@ -1,0 +1,23 @@
+Implementor name: Stephen Roche
+
+
+--------------------------------------------------------
+Completion Date: 261224
+
+Completion Time: 12:20
+
+
+----------------------------------------------------------
+Client Company Name: Mahonys
+
+Client Point of Contact: Stu
+
+Client Contact Phone Number: 0851234567
+
+----------------------------------------------------------
+05/08/2024, 09:36|x|Delivered faulty machine
+05/08/2024, 09:36|x|Recovered machine for repairs
+05/08/2024, 09:36|x|Delivered repaired machine
+05/08/2024, 09:36|x|Training started
+05/08/2024, 09:36|x|Training complete
+05/08/2024, 09:36|x|Contract Signed with POC and owners authorisation
